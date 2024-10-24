@@ -1,0 +1,55 @@
+.heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: rgb(29, 2, 59)  ;
+    color: wheat;
+
+}
+.pra{
+    background-color: red;
+}
+.head{
+    background-color: orange;
+}
+.para{
+    background-color: rgb(233, 170, 53);
+}
+.id{
+    background-color: rgb(233, 233, 13);
+}
+.about{
+    background-color: yellowgreen;
+}.about{
+    background-color: rgb(140, 240, 130);
+}
+.home{
+    background-color: rgb(16, 231, 16);
+}
+.gellery{
+    background-color: rgb(135, 228, 135);
+}
+.contact{
+    background-color: rgb(167, 243, 167);
+}
+.products{
+    background-color:rgb(130, 220, 243);
+}
+.apps{
+    background-color: rgb(0, 132, 255);
+}
+.opa{
+    background-color: rgb(97, 123, 240);
+}
+.homen{
+    background-color: rgba(213, 7, 240, 0.815);
+}
+.services{
+    background-color: rgb(169, 90, 185);
+}
+.hold{
+    background-color: rgb(175, 31, 204);
+}
+.app{
+    background-color: rgb(99, 236, 99);
+}
+
